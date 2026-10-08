@@ -1,6 +1,6 @@
 # Hi, I'm James Boh 👋
 
-Product Leader & AI Builder. Alongside leading product teams, I independently build and ship 0→1 AI applications in my free time—handling everything from product discovery and system architecture to writing the code and managing cloud deployments.
+Product Leader & AI Builder. Alongside leading product teams, I independently build and ship 0→1 AI applications in my free time, handling everything from product discovery and system architecture to writing the code and managing cloud deployments.
 
 ---
 
