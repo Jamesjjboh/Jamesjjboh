@@ -9,7 +9,7 @@ Product Leader & AI Builder. Alongside leading product teams, I independently bu
 * **[Lentor Modern Digital Concierge](https://github.com/Jamesjjboh/Lentor-Modern-Concierge)** | [Live Telegram Bot](https://t.me/LentorModernBot)  
   * **Problem:** Community group chats constantly cluttered by residents repeating the same routine questions, unsearchable 40-page PDF handbooks, and the physical concierge closing at 8 PM.
   * **Solution:** 24/7 private Telegram bot giving residents two paths: tap 1-click quick menus for instant frequent answers, or ask complex questions in plain conversational English.
-  * **Traction & Economics:** **Within 7 days of launch: 45 registered residents (≈7% adoption)**, **185 interactions (63 questions + 122 menu taps)**, **100% answer rate**, with evening traffic peaking after desk closure (52%) at **$0.00/mo idle cost**.
+  * **Traction & Economics:** **Within first 72 hours of launch: 46 registered residents (≈8% adoption)**, **186 interactions (63 questions + 123 menu taps)**, **100% answer rate**, with evening traffic peaking after desk closure (52%) at **$0.00/mo idle cost**.
   * `Gemini 3.5 Flash` • `Google Cloud Run` • `Firestore` • `Python`
 
 * **[James Boh Macro Tracker](https://github.com/Jamesjjboh/James-Boh-Macro-Tracker)** | [Live Telegram Bot](https://t.me/JamesBoh_Macro_Trackerbot)  
