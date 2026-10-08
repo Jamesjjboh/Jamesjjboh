@@ -7,15 +7,15 @@ Product Leader & AI Builder. Alongside leading product teams, I independently bu
 ### 🚀 Independent Projects (Solo Built & Shipped)
 
 * **[Lentor Modern Digital Concierge](https://github.com/Jamesjjboh/Lentor-Modern-Concierge)** | [Live Telegram Bot](https://t.me/LentorModernBot)  
-  * **Problem:** Information fragmentation—digging through 40-page PDF handbooks, the 8 PM concierge closure, and chat clutter for ~605 households.
-  * **Solution:** 24/7 Telegram AI agent with a 1-tap quick action hub (`<5ms` regex fast-path), multimodal photo defect analysis, and strict estate by-law grounding.
+  * **Problem:** Community group chats constantly cluttered by residents repeating the same routine questions, unsearchable 40-page PDF handbooks, and the physical concierge closing at 8 PM.
+  * **Solution:** 24/7 private Telegram bot giving residents two paths: tap 1-click quick menus (`<5ms` regex fast-path) for instant frequent answers, or ask complex questions in plain conversational English with strict by-law grounding and multimodal photo analysis.
   * **Traction & Economics:** **Within 7 days of launch: 45 registered residents (≈7% adoption)**, **185 interactions (63 questions + 122 menu taps)**, **100% answer rate**, with evening traffic peaking after desk closure (52%) at **$0.00/mo idle cost**.
   * `Gemini 3.5 Flash` • `Google Cloud Run` • `Firestore` • `Python`
 
 * **[James Boh Macro Tracker](https://github.com/Jamesjjboh/James-Boh-Macro-Tracker)** | [Live Telegram Bot](https://t.me/JamesBoh_Macro_Trackerbot)  
-  * **Problem:** Logging fatigue—80%+ of users abandon calorie apps due to manual kitchen-scale weighing and bloated barcode databases.
-  * **Solution:** Frictionless conversational bot featuring multi-photo album debouncing (Snap & Go), swipe-to-reply natural language portion edits (1.5s), and instant in-chat Unicode dashboards.
-  * **Traction & Economics:** **Singapore PDPA compliant by design** (one-tap `/export` & `/delete`), **21 automated test suites**, and **$0.00/mo serverless unit economics**.
+  * **Problem:** Logging fatigue—80%+ of users abandon calorie apps within a month due to tedious kitchen-scale weighing and searching through 50 duplicate barcode entries for simple meals.
+  * **Solution:** Conversational Telegram assistant where users simply send food photos (single shots or multi-dish spreads) or text; Gemini Vision auto-itemizes macros, with swipe-to-reply natural language adjustments (*"ate half the rice"*) recalculating in 1.5s alongside in-chat progress bars.
+  * **Traction & Economics:** **Singapore PDPA compliant by design** (one-tap `/export` CSV & right-to-erasure `/delete`), **21 automated test suites**, and **$0.00/mo serverless unit economics**.
   * `Gemini Vision` • `Google Cloud Run` • `Firestore` • `Telegram Bot API`
 
 ---
