@@ -6,7 +6,7 @@ Product Leader & AI Builder. Alongside leading product teams, I independently bu
 
 ### 🚀 Independent Projects (Solo Built & Shipped)
 
-* **[Lentor Modern Digital Concierge](https://github.com/Jamesjjboh/Lentor-Modern-Concierge)** | [Live Telegram Bot](https://t.me/LentorModernBot)  
+* **[Lentor Modern Digital Concierge](https://github.com/Jamesjjboh/Lentor-Modern-Concierge)**
   * **Problem:** Community group chats constantly cluttered by residents repeating the same routine questions, unsearchable 40-page PDF handbooks, and the physical concierge closing at 8 PM.
   * **Solution:** 24/7 private Telegram bot giving residents two paths: tap 1-click quick menus for instant frequent answers, or ask complex questions in plain conversational English.
   * **Traction & Validation:** **Within 72 hours of a single announcement: 55+ registered households (~9% adoption)**, **195+ interactions (67% buttons / 33% chat)**, **100% answer accuracy rate**, and sustained daily organic usage with **53% of queries occurring after 6:00 PM** (after physical desk closure).
